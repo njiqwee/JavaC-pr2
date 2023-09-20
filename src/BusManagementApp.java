@@ -56,7 +56,7 @@ public class BusManagementApp extends JFrame {
         yearOfManufactureField = new JTextField(20);
         mileageLabel = new JLabel("Пробег:");
         mileageField = new JTextField(20);
-	questRouteLabel = new JLabel("Пробег для поиска:");
+	questRouteLabel = new JLabel("Маршрут для поиска:");
         questRouteField = new JTextField(20);
 
         addButton = new JButton("Добавить");
